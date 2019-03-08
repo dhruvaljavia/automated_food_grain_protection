@@ -1,6 +1,6 @@
 # Automated Food Grain Protection
 
-Developing solution for village farmer to product their grains.
+Developing solutions for village farmers to protect their grains.
 
 ## Introduction
 Agriculture plays a vital role in increasing any nation's economy. India being an agriculture country; where 50% population depends on farming, **storage and protection** of grains plays a crucial role in developing nation's economy. In the process of grain storage, temperature and humidity are major environmental factors that can influence directly on the quality of the Grain. Hence, there is a necessity to monitor the vital parameters continuously during storage and communicate the status to the manager in real time which becomes challenging.The traditional methods require continuous human efforts which is practically not feasible. There is a need for smart grain management system with automation which can monitor environmental parameters such as **temperature, humidity and rain** and give status updates and warnings to the manager.

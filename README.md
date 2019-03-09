@@ -32,4 +32,4 @@ Working mechanism of the system Data of various parameters; namely temperature, 
 
 
 
-
+![Trial](snowynight4.jpg)

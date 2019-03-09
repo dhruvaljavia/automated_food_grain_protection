@@ -3,7 +3,10 @@
 Developing solutions for village farmers to protect their grains.
 
 ## Introduction
+
 Agriculture plays a vital role in increasing any nation's economy. India being an agriculture country; where 50% population depends on farming, **storage and protection** of grains plays a crucial role in developing nation's economy. In the process of grain storage, temperature and humidity are major environmental factors that can influence directly on the quality of the Grain. Hence, there is a necessity to monitor the vital parameters continuously during storage and communicate the status to the manager in real time which becomes challenging.The traditional methods require continuous human efforts which is practically not feasible. There is a need for smart grain management system with automation which can monitor environmental parameters such as **temperature, humidity and rain** and give status updates and warnings to the manager.
+
+![GrainStorage](Photos/grainStorage.jpg)
 
 ## Grain protection system description
 
@@ -43,7 +46,7 @@ The soil moisture sensor consists of two probes which are used to measure the vo
 
 ### Bluetooth Module:
 
-![Bluetooth](snowynight4.jpg)
+![Bluetooth](Photos/bluetooth.jpg)
 We are using Hc-05 module to communicate between Arduino and the manager of grains.HC‐05 module is an easy to use Bluetooth SPP (Serial Port Protocol) module, designed for transparent wireless serial connection setup. The serial port Bluetooth module is fully qualified Bluetooth V2.0+EDR (Enhanced Data Rate) 3Mbps Modulation with complete 2.4GHz radio transceiver and baseband. It uses CSR Bluecore 04‐External single chip Rluetooth system with CMOS technology and with AFH (Adaptive Frequency Hopping Feature).
 
 

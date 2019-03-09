@@ -15,7 +15,7 @@ Working mechanism of the system Data of various parameters; namely temperature, 
 
 ### Micro Controller(Arduino Uno R3):
 
-![ServoMotor](snowynight4.jpg)
+![ServoMotor](automated_food_grain_protection/Photos/arduinoUno.jpg)
 We are using Arduino Uno R3 to process and send data using bluetooth module. The Arduino Uno is a microcontroller board based on the ATmega328. It has 14 digital input/output pins of which 6 can be used as PWM outputs, 6 analog inputs, a 16 MHz ceramic resonator, a USB connection, a power jack, an ICSP header, and a reset button. 
 
 ### Humidity Sensor:
